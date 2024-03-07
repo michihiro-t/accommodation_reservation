@@ -54,5 +54,8 @@ end
 
 gem 'devise'
 
+gem "bulma-rails"
+gem 'bulma-extensions-rails', '~> 1.0.30'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
